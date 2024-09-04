@@ -11,4 +11,4 @@
 <br>
 **Discord**<br>https://discord.com/invite/kXQUq2TavJ
 
-![Description of the image](2024071402532514.jpg)
+![Description of the image](image.png)
